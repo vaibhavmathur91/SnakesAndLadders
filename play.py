@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from game import SnakeLadder, Dice
 from constants import BOARD_LENGTH, PLAYERS, THROW_DICE
 

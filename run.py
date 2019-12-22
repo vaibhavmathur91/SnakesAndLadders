@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from play import Main
 from constants import HOW_TO_PLAY
 

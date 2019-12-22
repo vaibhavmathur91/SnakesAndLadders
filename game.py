@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random
 from constants import SNAKES_LIST, LADDER_LIST
 
